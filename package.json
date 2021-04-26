@@ -1,0 +1,24 @@
+{
+  "name": "dropdown-menu",
+  "version": "1.0.0",
+  "description": "a module that contains function to create and return a dom element for drop down menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohite-abhi/dropdown-menu.git"
+  },
+  "keywords": [
+    "drop",
+    "down",
+    "menu"
+  ],
+  "author": "abhishek mohite <abhishekmohite421@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohite-abhi/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/mohite-abhi/dropdown-menu#readme"
+}
