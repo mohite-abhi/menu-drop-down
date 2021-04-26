@@ -1,6 +1,6 @@
 {
   "name": "menu-drop-down",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a module that contains function to create and return a dom element for drop down menu",
   "main": "index.js",
   "scripts": {
