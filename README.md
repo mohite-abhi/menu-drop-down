@@ -13,8 +13,11 @@ Then ..
 ```
 import { createDropDown } from "menu-drop-down";
 
-dropDown1 = createDropDown("click me", ["item 1", "item 2", "item 3", "item 4"], 2);
-dropDown2 = createDropDown("push this", ["item 5", "item 6", "item 7", "item8"]);
+
+let dropDown1 = createDropDown("click me", ["item 1", "item 2", "item 3", "item 4"], 2);
+let dropDown2 = createDropDown("push this", ["item 5", "item 6", "item 7", "item8"]);
+
+//remember to import script after body tag or it will throw error
 document.querySelector("body").appendChild(dropDown1);
 document.querySelector("body").appendChild(dropDown2);
 ```
